@@ -15,7 +15,6 @@ pip-delete-this-directory.txt
 # Игнорируем тяжелые датасеты и файлы моделей
 *.csv
 *.xlsx
-models/*.cbm
 models/*.pkl
 models/*.h5
 
